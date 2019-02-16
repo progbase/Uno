@@ -1,5 +1,5 @@
-#  Automatic Card Shuffler & Sorter (GDC Course, KP-81 group) 
-## Team KPImroved
+#  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
+## Our Team `KPImroved`
 
 [Presentation](https://docs.google.com/presentation/d/10rBZ9-rmnxBzG6el2hvGrc1fT8E0dH_FWtXCbRZUZtU/edit#slide=id.p)
 
