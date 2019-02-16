@@ -34,3 +34,5 @@ fontawesome.css | Стили иконочного шрифта
 layout.css      | Основные стили, применительно к определённому сайту
 lightbox.css    | Стили лайтбокса, если таковой используется
 index.html      | Индексный файл для проверки вносимых изменений
+
+[Presentation](https://docs.google.com/presentation/d/10rBZ9-rmnxBzG6el2hvGrc1fT8E0dH_FWtXCbRZUZtU/edit#slide=id.p)
