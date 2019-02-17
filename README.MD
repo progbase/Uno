@@ -1,5 +1,7 @@
 #  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
 
+Our team develops ACSS (Automatic Card Shuffler & Sorter). It will help you enjoy the UNO game with greater comfort and not be distracted by such inconveniences as the constant choice of shufflers and long boring sorting.
+***
 ## **Our team**
 * *SCRUMMASTA* [**Nikitin Oleksandr** :policeman:](https://github.com/arcanit33)
 
