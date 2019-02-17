@@ -1,7 +1,7 @@
-#  `Automatic Card Shuffler & Sorter (GDC course, group KP-81)` 
+#  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
 
 
-## **Our team**
+## `**Our team**`
 * *SCRUMMASTA* [**Nikitin Oleksandr** :policeman:](https://github.com/arcanit33)
 
 1. *TeamLead* [**Zhadev Oleksii** :octocat:](https://github.com/AlexZhadaev)
