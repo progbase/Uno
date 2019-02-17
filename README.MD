@@ -2,13 +2,13 @@
 
 
 ## **Our team**
-* *SCRUMMASTA* **Nikitin Oleksandr** :policeman:
+* *SCRUMMASTA* [**Nikitin Oleksandr** :policeman:](https://github.com/arcanit33)
 
-1. *TeamLead* **Zhadev Oleksii** :octocat:
-   * *Leshchenko Dmytro* :computer:
-   * *Irih Mykyta* :shipit:
-2. *QALead* **Lyepin Dmytro** :trollface:
-   * *Ivaknenko Margarita* :bug:
+1. *TeamLead* [**Zhadev Oleksii** :octocat:](https://github.com/AlexZhadaev)
+   * [*Leshchenko Dmytro* :computer:](https://github.com/Xasturr)
+   * [*Irih Mykyta* :shipit:](https://github.com/bubuka25)
+2. *QALead* [**Lyepin Dmytro** :trollface:](https://github.com/acsellW)
+   * [*Ivaknenko Margarita* :bug:](https://github.com/madcassln)
 ## Some URL
 [**`Project repository`**](https://github.com/progbase/Uno)
 
