@@ -1,14 +1,14 @@
 #  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
-## [**`Project repository`**](https://github.com/progbase/Uno)
+
 
 ## **Our team**
 * *SCRUMMASTA* **Nikitin Oleksandr** :policeman:
 
 1. *TeamLead* **Zhadev Oleksii** :octocat:
-* *Leshchenko Dmytro* :computer:
-* *Irih Mykyta* :shipit:
+   * *Leshchenko Dmytro* :computer:
+   * *Irih Mykyta* :shipit:
 2. *QALead* **Lyepin Dmytro** :trollface:
-* *Ivaknenko Margarita* :bug:
+   * *Ivaknenko Margarita* :bug:
 
 [Presentation](https://docs.google.com/presentation/d/10rBZ9-rmnxBzG6el2hvGrc1fT8E0dH_FWtXCbRZUZtU/edit#slide=id.p)
 
