@@ -1,7 +1,7 @@
 #  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
 ## [**`Project repository`**](https://github.com/progbase/Uno)
 
-**Our team**
+## **Our team**
 `SCRUMMASTA` **Nikitin Oleksandr** :policeman:
 
 
