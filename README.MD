@@ -1,4 +1,4 @@
-#  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
+#  `Automatic Card Shuffler & Sorter (GDC course, group KP-81)` 
 
 
 ## **Our team**
