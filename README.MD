@@ -1,5 +1,5 @@
 #  Automatic Card Shuffler & Sorter (GDC course, group KP-81) 
-***
+
 ## **Our team**
 * *SCRUMMASTA* [**Nikitin Oleksandr** :policeman:](https://github.com/arcanit33)
 
@@ -8,6 +8,7 @@
    * [*Irih Mykyta* :shipit:](https://github.com/bubuka25)
 2. *QALead* [**Lyepin Dmytro** :trollface:](https://github.com/acsellW)
    * [*Ivaknenko Margarita* :bug:](https://github.com/madcassln)
+***   
 ## Some URL
 [**`Project repository`**](https://github.com/progbase/Uno)
 
