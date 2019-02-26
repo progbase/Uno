@@ -9,7 +9,7 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
    * [*Leshchenko Dmytro* :computer:](https://github.com/Xasturr)
    * [*Ayrikh Mykyta* :shipit:](https://github.com/bubuka25)
 2. *QALead* [**Lyepin Dmytro** :trollface:](https://github.com/acsellW)
-   * [*Ivaknenko Margarita* :beetle:](https://github.com/madcassln)
+   * [*Ivakhnenko Margarita* :beetle:](https://github.com/madcassln)
 ***   
 ## Usefull links:
 -	[**`Project repository`**](https://github.com/progbase/Uno)
@@ -28,7 +28,7 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
   - *Leshchenko Dmytro* : 5
   - *Ayrikh Mykyta* : 5
   - *Lyepin Dmytro* : 5
-  - *Ivaknenko Margarita* : 5
+  - *Ivakhnenko Margarita* : 5
   ### [`Daily meeting place`](https://goo.gl/maps/uKQCAZKrPRS2)
   
   ### [`Tasks`](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=2042564249)
