@@ -13,11 +13,11 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
 ***   
 ## Usefull links:
 -	[**`Project repository`**](https://github.com/progbase/Uno)
-- [**`KPImproved team`**](https://github.com/orgs/progbase/teams/kpimproved)
+-	[**`KPImproved team`**](https://github.com/orgs/progbase/teams/kpimproved)
 -	[**`Presentation`**](https://docs.google.com/presentation/d/1cgQ4w0Rxo9qv66jtavsBFw55RRvs0z2GockqXAjHofg/edit#slide=id.g4f209463eb_0_15)
 -	[**`Inventory`**](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=0)
-- [**`Backlog`**](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=387429905)
-- [**`UNOD**](https://github.com/orgs/progbase/projects/5)
+-	[**`Backlog`**](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=387429905)
+-	[**`UNOD`**](https://github.com/orgs/progbase/projects/5)
 
 ***
 ## First sprint:
