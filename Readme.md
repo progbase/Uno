@@ -34,5 +34,7 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
   ### [`Tasks`](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=2042564249)
   
   ### [`Demonstration 12.03.2019 at 12:20 in 67-14`](https://goo.gl/maps/DU6uqVZK12U2)
+  
+  ### [`Retrospective`](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=271858054)
 
 ***
