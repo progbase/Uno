@@ -38,3 +38,21 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
   ### [`Retrospective`](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=271858054)
 
 ***
+## Final sprint:
+  ### Goal:
+   **Completion of all not completed functionality**
+  ### Member list:
+  - *Zhadev Oleksii*  : 5
+  - *Leshchenko Dmytro* : 5
+  - *Ayrikh Mykyta* : 5
+  - *Lyepin Dmytro* : 5
+  - *Ivakhnenko Margarita* : 5
+  ### [`Daily meeting place`](https://goo.gl/maps/uKQCAZKrPRS2)
+  
+  ### [`Tasks`](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=360634982)
+  
+  ### [`Demonstration 09.04.2019 at 12:20 in 67-14`](https://goo.gl/maps/DU6uqVZK12U2)
+  
+  ### [`Demonstration video (IN PROGRESS)`]()
+
+***
