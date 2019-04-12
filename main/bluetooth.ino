@@ -10,6 +10,28 @@ void bt_setup(int ledPin) {
   pinMode(ledPin, OUTPUT);
 }
 
+int	pl_count()
+{
+	if (BT.available() > 0)
+	{
+		BluetoothData = BT.read();
+		if (BluetoothData >= '2' && BluetoothData <= '8')
+			return (BluetoothData - '0');
+	}
+}
+
+int	bt_mode()
+{
+	if (BT.available() > 0)
+	{
+		BluetoothData = BT.read();
+		if (BluetoothData == 'p')
+			return 1;
+		else if (BluetoothData == 's')
+			return 0;
+	}
+}
+
 int bt_loop(int ledPin) {
   // put your main code here, to run repeatedly:
   if (BT.available() )

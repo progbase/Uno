@@ -6,6 +6,11 @@ void servo_setup(int servoPin)
   servo.attach(servoPin);
 }
 
+void rotate_on(int deg)
+{
+	servo.write(deg);
+}
+
 void rotate0() {
   servo.write(0);
 }
