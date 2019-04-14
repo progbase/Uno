@@ -4,7 +4,7 @@
 int servoPin = 9;
 int stepperPin = 10;
 
-int bt_check = -1;
+int bt_c = -1;
 int color_check = -1;
 void setup() {
   srand(time(NULL));
@@ -15,11 +15,13 @@ void setup() {
 }
 
 void loop() {
-	bt_check = bt_mode();
-	if (bt_check == 1)
-		shuffle(pl_count());
-	if (bt_check == 0)
-		sort();
+  bt_c = bt_loop(LED_BUILTIN);
+  servo_loop();
+//	bt_check = bt_mode();
+//	if (bt_check == 1)
+//		shuffle(pl_count());
+//	if (bt_check == 0)
+//		sort();
   /*
   bt_check = bt_loop(LED_BUILTIN);
   if (bt_check == 1)
@@ -70,9 +72,9 @@ void	sort()
 	color_check = color_read();
 	while (color_check != -1)
 	{
-		rotate_on(N * color_check);
+		//rotate_on(N * color_check);
 		delay(200);
-		drop_card();
+		drop_card(stepperPin);
 		delay(100);
 		color_check = color_read();
 	}
@@ -82,8 +84,8 @@ void	shuffle(int pl_count)
 {
 	for (int i = 0; i < 108; i++)
 	{
-		rotate_on(180 / pl_count * (rand() % pl_count));
-		drop_card();
+		//rotate_on(180 / pl_count * (rand() % pl_count));
+		drop_card(stepperPin);
 		delay(100);
 	}
 }

@@ -56,3 +56,8 @@ int bt_loop(int ledPin) {
     }
   }
 }
+
+void  bt_print(char *str)
+{
+  BT.print(str);
+}

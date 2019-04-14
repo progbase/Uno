@@ -1,26 +1,16 @@
-#include <Servo.h>
-Servo servo;
+#include <Servo.h> //используем библиотеку для работы с сервоприводом
 
-void servo_setup(int servoPin)
+Servo servo; //объявляем переменную servo типа Servo
+
+void servo_setup(int servoPin) //процедура setup
 {
-  servo.attach(servoPin);
+  servo.attach(servoPin); //привязываем привод к порту 10
 }
 
-void rotate_on(int deg)
+void servo_loop() //процедура loop
 {
-	servo.write(deg);
-}
-
-void rotate0() {
-  servo.write(0);
-}
-
-void rotate180() {
-  servo.write(180);
-//  for (int i = 180; i >= 0; i--)
-//  {
-//    servo.write(i);
-//    delay(10);
-//  }
-  //  servo.write(180);
+  servo.write(0); //ставим вал под 0
+  delay(2000); //ждем 2 секунды
+  servo.write(180); //ставим вал под 180
+  delay(2000); //ждем 2 секунды
 }
