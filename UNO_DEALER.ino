@@ -153,8 +153,11 @@ void  push_card()
   digitalWrite(steprPin, LOW);
 }
 /*=============================*/
+#include <stdlib.h>
+#include <time.h>
 
-
+int mode = 0;
+int player_c = 0;
 void setup() {
   pinMode(S0, OUTPUT);  pinMode(S1, OUTPUT);  pinMode(S2, OUTPUT);  pinMode(S3, OUTPUT);
   pinMode(sensorOut, INPUT);
@@ -166,10 +169,85 @@ void setup() {
   servo.attach(servoPin);
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(steprPin, OUTPUT);
+label1:  
+  BT.println("Please choose mode:\n1) Sort\n2) Shuffle");
+  while (!(BT.available() > 0))
+    delay(10);
+    ;
+  val = BT.read();
+  if (val == '1')
+    mode = 1;
+  else if (val == '2')
+    mode = 2;
+  else 
+    goto label1;
+  BT.print("your choice - ");
+  if (mode == 1)
+  {
+    BT.println("sort");
+  }
+  else
+  {
+    BT.println("shuffle");
+players:
+    BT.println("Please enter number of players (2-8): ");
+    while (!(BT.available() > 0))
+      delay(10);
+      ;
+    val = BT.read();
+    if (!(val >= '2' && val <= '8'))
+      goto players;      
+    player_c = val - '0';    
+  }
+  srand(time(NULL));
+}
+
+int card = 180;
+
+void shuffle(int player_count)
+{
+  int *deck;
+  int r;
+
+  deck = (int *)malloc(sizeof(int) * player_count);
+  for (int i = 0; i < player_count; i++)
+    deck[i] = 0;
+  for (int c = 0; c < player_count * 7; c++)
+  {
+new_rand:
+    r = rand() % player_count;
+    if (deck[r] == 7)
+      goto new_rand;
+    rotate_on(180 / player_count * r);
+    delay(10);
+    push_card();
+    deck[r] += 1;
+  }
 }
 
 void loop() {
+  if (mode == 1)
+  {
+  	while ((card = color_check()) > 0)
+  	{
+  		rotate_on(card);
+  		delay(10);
+  		push_card();
+  	}
+    mode = 3;
+  }
+  else if (mode == 2)
+  {
+    shuffle(player_c);
+    mode = 3;
+  }
+  else if (mode == 3)
+  {
+    BT.println("Work has been done");
+    mode = 0;
+  }
 /*============BLUETOOTH=========*/
+/*
   if (BT.available())
   {
     val = BT.read();
@@ -187,6 +265,7 @@ void loop() {
       digitalWrite(steprPin, LOW);
     }
   }
+*/
 /*============COLOR_SENSOR=========*/
 
 
