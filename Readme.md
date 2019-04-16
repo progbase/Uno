@@ -14,6 +14,7 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
 ## Usefull links:
 -	[**`Project repository`**](https://github.com/progbase/Uno)
 -	[**`KPImproved team`**](https://github.com/orgs/progbase/teams/kpimproved)
+- [**`Documentation`**](https://docs.google.com/document/d/1ycJoLiVxzX7CxAMXhZtae0w2d7a4PJUl5zXMS1eTdXA/edit#)
 -	[**`Presentation`**](https://docs.google.com/presentation/d/1cgQ4w0Rxo9qv66jtavsBFw55RRvs0z2GockqXAjHofg/edit#slide=id.g4f209463eb_0_15)
 -	[**`Inventory`**](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=0)
 -	[**`Backlog`**](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=387429905)
@@ -52,6 +53,8 @@ Our team develops UNO Dealer. It will help you enjoy the UNO game with greater c
   ### [`Tasks`](https://docs.google.com/spreadsheets/d/1t0qok8yyGPypgWNr8R4aoo9seJ1HTWF-gFS-p-IRink/edit#gid=360634982)
   
   ### [`Demonstration 09.04.2019 at 12:20 in 67-14`](https://goo.gl/maps/DU6uqVZK12U2)
+  
+  ### [`Presentation for final sprint`](https://docs.google.com/presentation/d/1p-O4tQPud2ZzSSoOa8UMcFYDRreT5bjDucKH3LulHog/edit#slide=id.g35f391192_065)
   
   ### [`Demonstration video (IN PROGRESS)`]()
 
